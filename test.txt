@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 asdf <<<<<<< HEAD
 <<<<<<< HEAD
@@ -181,10 +182,15 @@ asdfasdf
 <<<<<<< HEAD
 asdfasdf
 =======
+=======
+>>>>>>> d5b6309... moar commits plox
 asdfasdfasdfasdfaasdfaasdfasdfasdf
 izdrbnzrdzjrdbznr
 xftiuhzdrzrl;bzrbjzrd
 tzh;iunizjr;zjmrbkzdrb
 z;binzdrbzdrbzdb;
+<<<<<<< HEAD
 >>>>>>> conflict tests
 >>>>>>> binary-conflict-right
+=======
+>>>>>>> d5b6309... moar commits plox
