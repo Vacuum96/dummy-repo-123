@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 asdfasdf
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+izdrbnzrdzjrdbznr
+xftiuhzdrzrl;bzrbjzrd
+tzh;iunizjr;zjmrbkzdrb
+z;binzdrbzdrbzdb;
+>>>>>>> conflict tests
