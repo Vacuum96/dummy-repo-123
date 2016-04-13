@@ -1,3 +1,4 @@
+<<<<<<< jgrosso/branch-234
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -187,11 +188,14 @@ asdfasdf
 >>>>>>> d5b6309... moar commits plox
 =======
 >>>>>>> d5b6309... moar commits plox
+=======
+>>>>>>> conflict tests
 asdfasdfasdfasdfaasdfaasdfasdfasdf
 izdrbnzrdzjrdbznr
 xftiuhzdrzrl;bzrbjzrd
 tzh;iunizjr;zjmrbkzdrb
 z;binzdrbzdrbzdb;
+<<<<<<< jgrosso/branch-234
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> conflict tests
@@ -200,3 +204,5 @@ z;binzdrbzdrbzdb;
 >>>>>>> d5b6309... moar commits plox
 =======
 >>>>>>> d5b6309... moar commits plox
+=======
+>>>>>>> conflict tests
