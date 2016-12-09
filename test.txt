@@ -54,6 +54,7 @@ sasd
 as
 
 
+<<<<<<< HEAD
 
 asdf
 asdf
@@ -63,6 +64,9 @@ asdf
 
 asd
 asd
+=======
+as
+>>>>>>> change
 
 
 sda
