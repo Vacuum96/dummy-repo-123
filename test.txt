@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    
 =======
  
@@ -9,6 +10,21 @@
  
 >>>>>>> parent of cb101bf... Test commit 2
 asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+=======
+<<<<<<< HEAD
+=======
+  <<<<<<< HEAD
+>>>>>>> 494efcc... Modify
+   
+asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+asdf
+<<<<<<< HEAD
+=======
+>>>>>>> Test commit
+>>>>>>> protected-1
+>>>>>>> protected-1
 // This is a comment
 
 asdf
@@ -64,6 +80,13 @@ sasd
 as
 
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+as
+=======
+<<<<<<< HEAD
+>>>>>>> protected-1
 
 asdf
 asdf
@@ -73,6 +96,10 @@ asdf
 
 asd
 asd
+=======
+as
+>>>>>>> change
+>>>>>>> protected-1
 
 
 sda
@@ -107,6 +134,9 @@ asdf
 fas
 df
 asdfas
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 dfasdf
 as
 
@@ -114,5 +144,21 @@ as
 
 asdf
 =======
+<<<<<<< HEAD
 asdfasdf
 >>>>>>> master
+=======
+<<<<<<< HEAD
+>>>>>>> change
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+>>>>>>> adc61a9... kjh
+<<<<<<< HEAD
+>>>>>>> Test
+=======
+=======
+asdfasdf
+>>>>>>> 0ecd474... har har har
+>>>>>>> har har har
+>>>>>>> protected-1
+>>>>>>> protected-1
