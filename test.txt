@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 asdf <<<<<<< HEAD
 <<<<<<< HEAD
@@ -176,3 +177,14 @@ asdfasdf
 >>>>>>> har har har
 >>>>>>> protected-1
 >>>>>>> protected-1
+=======
+<<<<<<< HEAD
+asdfasdf
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+izdrbnzrdzjrdbznr
+xftiuhzdrzrl;bzrbjzrd
+tzh;iunizjr;zjmrbkzdrb
+z;binzdrbzdrbzdb;
+>>>>>>> conflict tests
+>>>>>>> binary-conflict-right
