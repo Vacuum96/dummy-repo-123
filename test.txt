@@ -2,7 +2,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    
+=======
+ 
+>>>>>>> parent of cb101bf... Test commit 2
 =======
  
 >>>>>>> parent of cb101bf... Test commit 2
