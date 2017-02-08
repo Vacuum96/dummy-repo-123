@@ -1,1 +1,1 @@
-fopen examples
+fopen example
