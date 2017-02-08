@@ -1,1 +1,202 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+asdf <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+asd
+asdf <<<<<<< HEAD
+>>>>>>> parent of a162adc... Merge branch 'test-asdfsdfa' into test-asdfdsf
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+   
+=======
+ 
+>>>>>>> parent of cb101bf... Test commit 2
+=======
+ 
+>>>>>>> parent of cb101bf... Test commit 2
+=======
+ 
+>>>>>>> parent of cb101bf... Test commit 2
+=======
+   
+>>>>>>> parent of 4bab02d... Revert "Test commit 2"
+asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+=======
+<<<<<<< HEAD
+=======
+  <<<<<<< HEAD
+>>>>>>> 494efcc... Modify
+   
+asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+asdf
+<<<<<<< HEAD
+=======
+>>>>>>> Test commit
+>>>>>>> protected-1
+>>>>>>> protected-1
+// This is a comment
+
+asdf
+
+asdf
+
+
+asdf
+asdf
+asdf
+
+
+asdf
+asd
+
+sdf
+
+asd
+f
+
+
+sad
+f
+asdfasd
+asd
+fsda
+fasdfsad
+
+
+
+sad
+f
+asdf
+ds
+fasdfasdfasdfasd
+
+
+
+asdf
+asdfasdfas
+
+sadf
+
+
+sadf
+sd
+sad
+sdsd
+
+sasd
+
+
+as
+
+
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+as
+=======
+<<<<<<< HEAD
+>>>>>>> protected-1
+
+asdf
+asdf
+asdf
+
+
+
+asd
+asd
+=======
+as
+>>>>>>> change
+>>>>>>> protected-1
+
+
+sda
+fas
+
+
+sad
+f
+a
+
+
+sda
+fasdfasdf
+asd
+
+asd
+
+asdf
+sadfasd
+fasdfas
+df
+
+
+
+sadf
+asd
+f
+dsaf
+asd
+
+asdf
+fas
+df
+asdfas
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+dfasdf
+as
+
+
+
+asdf
+=======
+<<<<<<< HEAD
 asdfasdf
+>>>>>>> master
+=======
+<<<<<<< HEAD
+>>>>>>> change
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+>>>>>>> adc61a9... kjh
+<<<<<<< HEAD
+>>>>>>> Test
+=======
+=======
+asdfasdf
+>>>>>>> 0ecd474... har har har
+>>>>>>> har har har
+>>>>>>> protected-1
+>>>>>>> protected-1
+=======
+<<<<<<< HEAD
+asdfasdf
+=======
+=======
+>>>>>>> d5b6309... moar commits plox
+=======
+>>>>>>> d5b6309... moar commits plox
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+izdrbnzrdzjrdbznr
+xftiuhzdrzrl;bzrbjzrd
+tzh;iunizjr;zjmrbkzdrb
+z;binzdrbzdrbzdb;
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> conflict tests
+>>>>>>> binary-conflict-right
+=======
+>>>>>>> d5b6309... moar commits plox
+=======
+>>>>>>> d5b6309... moar commits plox
