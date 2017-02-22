@@ -1,0 +1,3 @@
+[submodule "find-git-repositories"]
+	path = find-git-repositories
+	url = git@github.com:implausible/find-git-repositories
