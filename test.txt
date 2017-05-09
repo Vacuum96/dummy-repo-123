@@ -1,4 +1,4 @@
-  somethign elseasdf<<<<<<< HEAD
+   aocmmit, somsomethign elseasdf<<<<<<< HEAD
    
 asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
 // This is a comment
