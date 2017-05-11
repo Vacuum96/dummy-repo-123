@@ -1,12 +1,10 @@
-   aocmmit, somsomethign elseasdf<<<<<<< HEAD
-   
+  asdfasdfchange n line 1asdf<<<<<<< HEAD
 asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
 // This is a comment
 
 asdf
 
 asdf
-
 
 asdf
 asdf
@@ -112,3 +110,5 @@ asdfasdf
 asdf
 asdf
 asdf
+
+  asdfasdf<<<<<<< HEAD
