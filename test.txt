@@ -1,4 +1,4 @@
-  asdfchange n line 1asdf<<<<<<< HEAD
+  asdfasdfchange n line 1asdf<<<<<<< HEAD
 asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
 // This is a comment
 
