@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
   <<<<<<< HEAD
    
 asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
@@ -120,3 +121,16 @@ xftiuhzdrzrl;bzrbjzrd
 tzh;iunizjr;zjmrbkzdrb
 z;binzdrbzdrbzdb;
 >>>>>>> conflictly2
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+izdrbnzrdzjrdbznr
+xftiuhzdrzrla change;bzrbjzrd
+tzh;iunizjr;zjmrbkzdrb
+z;binzdrbzdrbzdb;
+test
+asdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
+// This is a comment
+
+
+line changes 
+>>>>>>> line-endings-1
