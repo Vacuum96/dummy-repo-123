@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   <<<<<<< HEAD
    
 asdfasdfasdfasdfasdfaasdfaasdfasdfasdfasdfasdfasdfasdfaaaaaaaaaaaaaaaaa
@@ -112,3 +113,10 @@ asdfasdf
 asdf
 asdf
 asdf
+=======
+asdfasdfasdfasdfaasdfaasdfasdfasdf
+izdrbnzrdzjrdbznr
+xftiuhzdrzrl;bzrbjzrd
+tzh;iunizjr;zjmrbkzdrb
+z;binzdrbzdrbzdb;
+>>>>>>> conflictly2
